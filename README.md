@@ -1,2 +1,2 @@
-# snake-hame
+# snake-game
 Java Snake game
